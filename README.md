@@ -2,7 +2,7 @@
 
 create virtual com program.
 
-`python virtualCom.py &
+> python virtualCom.py &
 
 return 2 serial ports
 
